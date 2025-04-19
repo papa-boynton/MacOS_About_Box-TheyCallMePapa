@@ -30,6 +30,9 @@ Hidden=0
 Group=None
 DynamicVariables=1
 Y=(#DropdownIconYOffset#+#DropdownItemYOffset#+(#DropdownItemHeight#*10)+(#DividerSpace#*17))
+;Y=(#DropdownIconYOffset#+#DropdownItemYOffset#+#DropdownItemHeight#+#DividerSpace#*(#DroptopSize#))
+;Y=(#DropdownIconYOffset#+#DropdownItemYOffset#+#DropdownItemHeight#+#DividerSpace#+#DropdownItemPadding1#+#DropdownItemPadding2#+#DropdownItemPaddingY#)
+;Y=r
 
 [14Icon]
 MeterStyle=IconStyle
