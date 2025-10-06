@@ -20,7 +20,7 @@ SettingsMenu1.2.8.IconFlip=None
 SettingsMenu1.2.8.IconIsToggle=0
 SettingsMenu1.2.8.ToggleDirection=A
 SettingsMenu1.2.8.ToggleKey=None
-MyAppSlot=4
+MyAppSlot=2
 
 ;Main.inc	
 [14]
